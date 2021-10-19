@@ -31,10 +31,6 @@ This is the place where I opensource stuff and break things :rofl:
   
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pankajjha&hide_title=true&hide_border=true&langs_count=7&bg_color=00000000&text_color=777)
 
-📊 &nbsp;**This year I worked on**
-  
-![Wwakatime stats](
-https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=pankajjha&hide_title=true&hide_border=true&langs_count=10&bg_color=00000000&text_color=777&range=last_year)
 </p>
 
 <details>
