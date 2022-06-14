@@ -16,7 +16,11 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://stackoverflow.com/users/5884560/pankaj-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/pankajjha145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajjha145" height="30" width="40" /></a>
   
-💡 &nbsp;**Overall Contributions**
+💡&nbsp;**Overall Contributions**
+ 
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=pankajjha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
 <p align="left">
   <a href="https://github.com/pankajjha/pankajjha">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajjha&show_icons=true&theme=radical" />
